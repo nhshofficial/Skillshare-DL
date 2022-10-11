@@ -5,10 +5,10 @@
 <hr>
 
 ## Usage:
-Clone
-Type the command in the terminal (Inorder to change the directory ) cd Skillshare-DL
-Next Type - pip3 install -r requriments.txt
-Download - python3 dl.py "Course Link"
+- Clone the project
+- Type the command in the terminal (Inorder to change the directory ) cd Skillshare-DL
+- Type - pip3 install -r requriments.txt
+- To Download type - python3 dl.py "your_skillshare_phpsessid" "Course_Link"
 
 <a href="https://colab.research.google.com/github/nhshofficial/Skillshare-DL/blob/master/Skillshare_DL_%5BKENWAY%5D.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
